@@ -3,5 +3,6 @@ const sum = (a, b, c) => {
 }
 
 const diff = (a, b) => {
+  console.log(a, " ", b)
   return a-b;
 }
